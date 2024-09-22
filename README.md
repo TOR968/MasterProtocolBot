@@ -1,4 +1,4 @@
-# Clicker Game Bot
+# Master Protocol Game Bot
 
 This bot automates playing a clicker game for the Master Protocol mini-app.
 
